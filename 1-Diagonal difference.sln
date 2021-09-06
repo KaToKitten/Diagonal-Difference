@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Diagonal difference", "1-Diagonal difference\1-Diagonal difference.csproj", "{65EC99B1-6A5A-4725-8EF1-47264E5F9FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EC99B1-6A5A-4725-8EF1-47264E5F9FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EC99B1-6A5A-4725-8EF1-47264E5F9FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EC99B1-6A5A-4725-8EF1-47264E5F9FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EC99B1-6A5A-4725-8EF1-47264E5F9FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

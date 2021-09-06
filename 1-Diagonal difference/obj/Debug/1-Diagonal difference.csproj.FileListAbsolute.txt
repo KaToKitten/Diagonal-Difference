@@ -1,0 +1,12 @@
+D:\kim\exam\1-Diagonal difference\1-Diagonal difference\bin\Debug\1-Diagonal difference.exe.config
+D:\kim\exam\1-Diagonal difference\1-Diagonal difference\obj\Debug\1-Diagonal difference.csprojResolveAssemblyReference.cache
+D:\kim\exam\1-Diagonal difference\1-Diagonal difference\bin\Debug\1-Diagonal difference.exe
+D:\kim\exam\1-Diagonal difference\1-Diagonal difference\bin\Debug\1-Diagonal difference.pdb
+D:\kim\exam\1-Diagonal difference\1-Diagonal difference\obj\Debug\1-Diagonal difference.exe
+D:\kim\exam\1-Diagonal difference\1-Diagonal difference\obj\Debug\1-Diagonal difference.pdb
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\1-Diagonal difference\1-Diagonal difference\bin\Debug\1-Diagonal difference.exe.config
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\1-Diagonal difference\1-Diagonal difference\obj\Debug\1-Diagonal difference.exe
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\1-Diagonal difference\1-Diagonal difference\obj\Debug\1-Diagonal difference.pdb
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\1-Diagonal difference\1-Diagonal difference\bin\Debug\1-Diagonal difference.exe
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\1-Diagonal difference\1-Diagonal difference\bin\Debug\1-Diagonal difference.pdb
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\1-Diagonal difference\1-Diagonal difference\obj\Debug\1-Diagonal difference.csprojResolveAssemblyReference.cache
